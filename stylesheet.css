@@ -1,0 +1,22 @@
+body {
+    background-color: #878787;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+div.card-left,
+div.card-right {
+    background-color: #B24BF3;
+    width: 700px;
+    height: 1200px;
+    border-radius: 2%;
+    border-color: black;
+    border-style: solid;
+}
+
+div.nav {
+   background-color: #51087E;
+   width: 50px;
+   height:50px;
+}
